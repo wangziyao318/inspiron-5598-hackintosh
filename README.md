@@ -1,2 +1,5 @@
 # inspiron-5598-hackintosh
-EFI filie
+
+EFI filie for ventura 13.1.2
+
+Known issue is continuous display frozen, so I stopped using it.
